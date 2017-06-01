@@ -19,3 +19,8 @@ Using max6 is incredibly easy:
 
     $ python max6.py input.py compliant_output.py
 
+## We eat our own dogfood.
+
+To show just how easy and freeing it is to code in max6 Python style, the entire max6 codebase is written in max6 style.
+Take a look at the max6 source, and I'm sure you'll be compelled that this formatting style is more freeing than it is restricting.
+
